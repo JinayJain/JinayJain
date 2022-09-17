@@ -4,4 +4,4 @@ Welcome to my corner of the open source world. I build data-driven applications 
 
 **Check out [my website](https://jinay.dev/) to learn more about me!**
 
-I'm also looking for internships in AI and software engineering, feel free to reach out at hi@jinay.dev!
+I'm also looking for roles in AI and software engineering, feel free to reach out at hi@jinay.dev!
